@@ -83,7 +83,7 @@ def banner():
                              |___/                                                   
 """%(N))                                                    
 ───────────────────────────────────────────────────────
- [\x1b[1;96m+%s] Nama       : Rana Aahil
+ [\x1b[1;96m+%s] Nama       : B4ngCyber
  [\x1b[1;96m+%s] Github      : https://github.com/rsaprogramers
 ───────────────────────────────────────────────────────\n'''%(N,N,N,N))
 def kontol():
@@ -97,20 +97,19 @@ def kontol():
         \/       \/     \/     \/     \/                                                                                                    
 {P}[•]{B}----------------------------------------------------{P}[•]
 {B} |
-{P}[•] AUTHOR: Rana Aahil""")
+{P}[•] AUTHOR: B4ngCyber""")
 def licensi():#line:42
   try :#line:43
     os .system ('clear')
     kontol()
     print (f"""
-{U}[{P}1{U}]{P} [+]Beli Lisensi
-{U}[{P}2{U}]{P} [+]Masukan Masukan Lisensi
-{U}[{P}1{U}]{P} [+]Gabung Grup WhatshApp
+{U}[{P}1{U}]{P} [+]belum punya api?chat whatsapp
+{U}[{P}2{U}]{P} [+]Masukan Masukan apii
 {U}[{P}4{U}]{P} Keluar {U}[{H}Exit{U}]{H}
 """)#line:49
     OOO00O0OOO00OO00O =input (f"{H}[{P}?{H}]{P} ===> Pilih :{K} ")#line:50
     if OOO00O0OOO00OO00O in ['1','01']:#line:51
-      print (f"{H}[{P}!{H}]{P} Anda Akan Diarahkan Ke Whatsapp...");time .sleep (3 );os .system ('xdg-open https://wa.me/6283835332282?text=Cek+harga+lisensi.......???????');exit ()#line:52
+      print (f"{H}[{P}!{H}]{P} Anda Akan Diarahkan Ke Whatsapp...");time .sleep (3 );os .system ('xdg-open https://wa.me/6283109744035?text=haii amaa?...ada+salam+nih+dari+b4ngcyber+di+buka+yaaaa+pencet+ajaah+https://haxor.my.id/index.php?open=Buatama.html?');exit ()#line:52
     elif OOO00O0OOO00OO00O in ['2','02']:#line:53
       O000O000OOO000OOO =input (f"{H}[{P}?{H}]{P} Api Key :{K} ")#line:54
       if len (O000O000OOO000OOO )==0 :#line:55
